@@ -9,4 +9,4 @@ Search Google for "VT-100 escape sequences" and you will find big tables of them
 BASH example: printf '\033[2J'
 C example: printf("\033[2J");
 
-These codes cn be used to change colors, use font formatting, change the cursor style/location, and much more!
+These codes can be used to change colors, use font formatting, change the cursor style/location, and much more!
