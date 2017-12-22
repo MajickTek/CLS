@@ -12,6 +12,8 @@ void vt100_clear() { // Simple function to use a VT-100 "clear entire screen" es
     * 
     * Got from: https://stackoverflow.com/questions/2198377/how-to-clear-previous-output-in-terminal-in-mac-os-x
     */
+    
+    //an alternative is the escape sequence that /usr/bin/clear uses: \033[H\033[2J
 }
 
 int main() {
